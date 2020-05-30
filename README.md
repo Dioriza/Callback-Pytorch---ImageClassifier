@@ -1,7 +1,7 @@
 # Callback-Pytorch-ImageClassifier
 Use Callback on pytorch for image recognition datasets for classification.
 
-#Install Miniconda/Anaconda
+# Install Miniconda/Anaconda
 ### **Windows user**
 - Download miniconda for Python 3.7
     - please click this link to generate download: [Miniconda Windows 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
@@ -40,7 +40,7 @@ Use Callback on pytorch for image recognition datasets for classification.
     - Write `yes` for agree with that licence, then write `yes` for `prepend miniconda install location to PATH`
     - Wait until the installation is complete
 
-#Setup Environment
+# Setup Environment
 create a new directory to wrap the dataset
 
 Select the directory folder for environment placement
